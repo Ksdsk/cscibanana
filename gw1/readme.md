@@ -9,13 +9,15 @@ Daniel Kang
 * Information Section 1 (Lines 25 to 78) <br> Responsible for Informations in the webpage
 
 Basmala Kamal
-* Information Section 2 (Lines ?? to ??) <br> Responsible for Informations in the webpage
-
-Katelyn Hoeg
-* Footers, External Links (Lines ?? to ??) <br> Responsible for Footers, External Links, Fake Images
+* Information Section 2 (Lines 75 to 110) <br> Responsible for Informations in the webpage
 
 Nifemi Akomolafe
-* Quality Control (Lines Modified: ) <br> Responsible for modifying the four code sections above so it's even worse! 
+* Information Section 3 (Lines 111 to 160) <br> Responsible for Informations in the webpage
+
+Katelyn Hoeg
+* Footers, External Links (Lines 161 to ???) <br> Responsible for Footers, External Links, Fake Images
+
+
 
 **References**
 
@@ -86,4 +88,58 @@ Nifemi Akomolafe
 **Title of Piece:** Turtle Emoji <br>
 **URL:** https://github.com/twitter/twemoji <br>
 **Image Link:** https://creazilla-store.fra1.digitaloceanspaces.com/emojis/54705/turtle-emoji-clipart-md.png <br>
+**Date Accessed:** September 24th, 2020
+
+>
+>**7** <br>
+**File:** index.html <br>
+**Line of Reference:** 129 <br>
+**Author:** World Wild Life Foundation <br>
+**Title of Piece:** Hawksbill Turtle <br>
+**Article URL:** https://www.worldwildlife.org/species/hawksbill-turtle <br>
+**Date Accessed:** September 24th, 2020
+
+>
+>**8** <br>
+**File:** index.html <br>
+**Line of Reference:** 136 <br>
+**Author:** World Wild Life Foundation <br>
+**Title of Piece:** Loggerhead Turtle <br>
+**Article URL:** https://www.worldwildlife.org/species/loggerhead-turtle <br>
+**Date Accessed:** September 24th, 2020
+
+>
+>**9** <br>
+**File:** index.html <br>
+**Line of Reference:** 143 <br>
+**Author:** World Wild Life Foundation <br>
+**Title of Piece:** Leather Turtle <br>
+**Article URL:** https://www.worldwildlife.org/species/leatherback-turtle <br>
+**Date Accessed:** September 24th, 2020
+
+>
+>**10** <br>
+**File:** index.html <br>
+**Line of Reference:** 150 <br>
+**Author:** World Wild Life Foundation <br>
+**Title of Piece:** Green Turtle <br>
+**Article URL:** https://www.worldwildlife.org/species/green-turtle <br>
+**Date Accessed:** September 24th, 2020
+
+>
+>**11** <br>
+**File:** index.html <br>
+**Line of Reference:** 157 <br>
+**Author:** World Wild Life Foundation <br>
+**Title of Piece:** Olive Ridley <br>
+**Article URL:** https://www.worldwildlife.org/species/olive-ridley-turtle <br>
+**Date Accessed:** September 24th, 2020
+
+>
+>**12** <br>
+**File:** index.html <br>
+**Line of Reference:** 160 <br>
+**Author:** Daniel Kang <br>
+**Title of Piece:** blank <br>
+**URL:** https://cscibanana.com/blank.html <br>
 **Date Accessed:** September 24th, 2020

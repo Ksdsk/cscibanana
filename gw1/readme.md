@@ -34,7 +34,7 @@ Katelyn Hoeg
 >
 >**2** <br>
 **File:** index.html <br>
-**Line of Reference:** 73 <br>
+**Line of Reference:** 78 <br>
 **Author:** Tim Reckmann <br>
 **Title of Piece:** Bunny with eggs in Easter <br>
 **Url:** https://commons.wikimedia.org/wiki/File:Bunny_with_eggs_in_Easter.jpg <br>
@@ -44,17 +44,7 @@ Katelyn Hoeg
 >
 >**3** <br>
 **File:** index.html <br>
-**Line of Reference:** 84 <br>
-**Author:** Engin Akyurt <br>
-**Title of Piece:** Ink in Water Background <br>
-**Url:** https://www.youtube.com/watch?v=LCmsrVOXzZc <br>
-**Video Link:** https://youtu.be/LCmsrVOXzZc <br>
-**Date Accessed:** September 24th, 2020
-
->
->**3** <br>
-**File:** index.html <br>
-**Line of Reference:** 84 <br>
+**Line of Reference:** 89 <br>
 **Author:** Engin Akyurt <br>
 **Title of Piece:** Ink in Water Background <br>
 **Url:** https://www.youtube.com/watch?v=LCmsrVOXzZc <br>
@@ -64,7 +54,7 @@ Katelyn Hoeg
 >
 >**4** <br>
 **File:** index.html <br>
-**Line of Reference:** 90 <br>
+**Line of Reference:** 95 <br>
 **Author:** Michele Debczak <br>
 **Title of Piece:** 14 Fascinating Facts About Rabbits <br>
 **Article URL:** https://www.mentalfloss.com/article/557234/facts-about-rabbits <br>
@@ -73,7 +63,7 @@ Katelyn Hoeg
 >
 >**5** <br>
 **File:** index.html <br>
-**Line of Reference:** 94 <br>
+**Line of Reference:** 99 <br>
 **Author:** William Wardy <br>
 **Title of Piece:** Bunny Rabbit <br>
 **URL:** https://www.flickr.com/photos/wwarby/4011378891 <br>

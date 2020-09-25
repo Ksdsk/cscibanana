@@ -5,36 +5,36 @@
 
 <meta charset=utf-8>
 <title>Funny Cat Videos</title>
-<!--the title of the page doesn't describe what the page actually is-->
+<!--the title of the page doesn't describe what the page actually is--> <!-- This will confuse the visitors and the search engine. -->
 <style> 
-*{
+*{ 
 Margin: 0;
 padding: 0;
-} </style>
+} </style> <!-- This styling was done with the TA's go-sign. -->
 <!--change the margins so that all the words would stick close to each other--> 
 </head> <!--Saif's Part Ends-->
 <body> <!-- Daniel’s Part Begins-->
    <!-- Body Here -->
-   <div id=”whatareturtleshuh”> <!-- Section is semantic, div isn't -->
+   <div id=”whatareturtleshuh”> <!-- Section is semantic, div isn't --> <!-- This breaks HTML rules because it is easier for people and the machine to understand what the code does!-->
        <h1>WHAT ARE TURTLES?</h1>
        Turtles are known as our best friend in the entire universe. Did you know
        that in average, you will encounter at least 3 turtles in your life? WOW!
        Did you also know that this paragraph is not made with any of the
        p-tags? Of course it isn’t! We are the students of CSCI 1170, and we
        Know how to break the rules because were bunch of rebels!! also, we have nooooooo clue what semantics are so we're just going to use a bunch of
-       divs... <!-- There is no <p> to encase this paragraph! -->
+       divs... <!-- There is no <p> to encase this paragraph! --> <!-- This is a problem because later we cannot style the text exclusive the this paragraph. -->
    </div>
-   <div class="turtlepaintdrawing-pngorjpgwhatshouldweuse?wowthisishardandthenameiswaaaaaaytoolong"> <!-- WOW this id is waaaaay too long -->
+   <div class="turtlepaintdrawing-pngorjpgwhatshouldweuse?wowthisishardandthenameiswaaaaaaytoolong"> <!-- WOW this id is waaaaay too long --> <!-- This breaks rules because the id should be easily identifiable for humans to read and debug / make navigations for. -->
        <p>
-           good <b>news!</b> <i> this is my</i> render of a
+           good <b>news!</b> <i> this is my</i> render of a <!-- What is it saying? --> <!-- Good and easy-to-read texts are good for the visitors to help them find whatever they came looking for. -->
        </p>
        turtle! it's uncropped! not sized correctly! it looks super long and we love it that way. <br>
-       We also love ms paint<!-- once again, no <p> -->
-       <img src="img/turtle.png" alt="turtl" height="350px" width="1500px"> <!-- This makes the turtle super long, and not every-screen (responsive design) friendly. -->
+       We also love ms paint<!-- once again, no <p> --> <!-- For the same reason as above. -->
+       <img src="img/turtle.png" alt="turtl" height="350px" width="1500px"> <!-- This makes the turtle super long, and not every-screen (responsive design) friendly. --> <!-- This error fails responsive design test. Making the image in the incorrect aspect ratio may confuse both the developer and the visitor.-->
        <p>
-           check this turtle doing a somersault in the middle of the ocean!
+           check this turtle doing a somersault in the middle of the ocean! 
        </p>
-       <center><img src="img/turtlesomersault.png" alt="this is an alt statement completely unrelated to the image. also, hi there" width="500" length="500"></center> <!-- The image does not exist. The alt is completely unrelated. --> <!-- Center is deprecated too -->
+       <center><img src="img/turtlesomersault.png" alt="this is an alt statement completely unrelated to the image. also, hi there" width="500" length="500"></center> <!-- The image does not exist. The alt is completely unrelated. --> <!-- Center is deprecated too --> <!-- Using deprecated elements may not be supported on all browsers, possibly making the segment look not as how the developer desired. -->
    </div>
    <div id=”turtle-table”>
        <center>
@@ -53,13 +53,13 @@ padding: 0;
                 <th>Lili</th>
                 <th>8/10</th>
                 <th>Canada</th>
-                <th><img src="img/Florida_Box_Turtle_Digon3.jpg" alt="Florida Box Turtle" width="300px"></th> <!-- Florida Box Turtle, Zander, 2008 --> <!-- There is no fourth category in this table, making the turtle look like it's floating -->
+                <th><img src="img/Florida_Box_Turtle_Digon3.jpg" alt="Florida Box Turtle" width="300px"></th> <!-- Florida Box Turtle, Zander, 2008 --> <!-- There is no fourth category in this table, making the turtle look like it's floating --> <!-- Having an assigned element in a table will confuse the visitors of what the image is there for. -->
             </tr>
             <tr>
                 <th>Kiki</th>
                 <th>9/10</th>
                 <th>Mexico</th>
-                <th><img src="img/Florida_Box_Turtle_Digon3"></th> <!-- Florida Box Turtle, Zander, 2008 --> <!-- image does not have an extension and there's no alt tag!-->
+                <th><img src="img/Florida_Box_Turtle_Digon3"></th> <!-- Florida Box Turtle, Zander, 2008 --> <!-- image does not have an extension and there's no alt tag!--> <!-- having no extensions will confuse the browser and submit an error, because it is not a real file. Having no alt tags will give no alternative description for the image, possibly making visually-impared visitors very confused -->
             </tr>
             <tr>
                 <th>Mimi</th>
@@ -67,7 +67,7 @@ padding: 0;
                 <th>Insert fourth North American country here</th>
             </tr>
         </table>
-       </center> <!-- center is deprecated -->
+       </center> <!-- center is deprecated --> <!-- Same reason as why using deprecated tags are not a good idea. -->
        
     <br>
     <br>
@@ -111,7 +111,7 @@ padding: 0;
     <!-- Nifemi's Part Behins-->
     <h2>Facts about different turtles spieces</h2>
 
-    <!-- Mis-linked facts to paragraphs-->
+    <!-- Mis-linked facts to paragraphs--> <!-- This may confuse the readers and guide them to wrong information. -->
     <ul>
         <li><a href="#Olive-ridley">Hawksbill Turtle</a></li>
         <li><a href="#Leather-back">Loggerhead Turtle</a></li>
@@ -156,7 +156,7 @@ padding: 0;
     <h1><p id="olive-ridley"></p>Olive Ridley Turtle</h1>
     <p>The name for this sea turtle is tied to the color of its shell—an olive green hue. They are currently the most abundant of all sea turtles. Their vulnerable status comes from the fact that they nest in a very small number of places, and therefore any disturbance to even one nest beach could have huge repercussions on the entire population.</p>
 
-    <!-- Wrongily linked to a blank page website and improper use of header tag-->
+    <!-- Wrongily linked to a blank page website and improper use of header tag--> <!-- Having an incorrect anchor link may lead to visitors' confusion. -->
     <h1><a href="https://cscibanana.com/blank.html" target="_blank">Click Here For More Information About Turtle</a></h1> <!-- blank, Kang, 2020 -->
     </body>
 </html>

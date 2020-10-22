@@ -1,0 +1,188 @@
+---------------------------------------------
+Saif's Commit Log 
+---------------------------------------------
+
+October 15:
+
+October 16:
+
+October 17:
+
+October 18:
+
+October 19:
+
+October 20:
+
+October 21:
+
+October 22:
+
+October 23:
+
+October 24:
+
+October 25:
+
+October 26:
+
+October 27:
+
+October 28:
+
+October 29:
+
+October 30:
+
+---------------------------------------------
+Daniel's Commit Log
+---------------------------------------------
+
+October 15:
+
+- Created directories (css, img, js)
+- Created files (index.html, readme.md, commit.txt css/main.css, js/game.js)
+- Templated commit.txt and readme.md
+- Began HTML
+  - Linked main.css
+  - Linked game.js
+
+October 16:
+
+October 17:
+
+October 18:
+
+- Created 50 questions in javascript
+
+October 19:
+
+October 20:
+
+October 21:
+
+October 22:
+
+October 23:
+
+October 24:
+
+October 25:
+
+October 26:
+
+October 27:
+
+October 28:
+
+October 29:
+
+October 30:
+
+---------------------------------------------
+Basmala's Commit Log
+---------------------------------------------
+
+October 15:
+
+October 16:
+
+October 17:
+
+October 18:
+
+October 19:
+
+October 20:
+
+October 21:
+
+October 22:
+
+October 23:
+
+October 24:
+
+October 25:
+
+October 26:
+
+October 27:
+
+October 28:
+
+October 29:
+
+October 30:
+
+---------------------------------------------
+Nifemi's Commit Log
+---------------------------------------------
+
+October 15:
+
+October 16:
+
+October 17:
+
+October 18:
+
+October 19:
+
+October 20:
+
+October 21:
+
+October 22:
+
+October 23:
+
+October 24:
+
+October 25:
+
+October 26:
+
+October 27:
+
+October 28:
+
+October 29:
+
+October 30:
+
+---------------------------------------------
+Katelyn's Commit Log
+---------------------------------------------
+
+October 15:
+
+October 16:
+
+October 17:
+
+October 18:
+
+October 19:
+
+October 20:
+
+October 21:
+
+October 22:
+
+October 23:
+
+October 24:
+
+October 25:
+
+October 26:
+
+October 27:
+
+October 28:
+
+October 29:
+
+October 30:

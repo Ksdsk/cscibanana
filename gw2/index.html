@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Best Trivia Game!</title>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body onload="displayRandomQ(), updateLeaderboards()">
+        <div id="title">
+            <h1>The Great Trivia Game!</h1>
+        </div>
+        <div id="tutorial">
+        <h2>How to play the game: </h2>
+                <!-- To Basmala
+                If you could make the how-to-play appear and disappear on CLICK, that would be great (JS required) -->
+            <div id="how-to-play">
+                <p>The basic rules of the game are very simple: you are presented with five questions that come from a range of diiferent topics, your job is to try and answer each question. If your answer is correct then the answer zone will turn green but if your answer is wrong then your answer zone will turn red. If you answer all the questions then you've beat the game and something special might happen *wink wink*.</p>
+                <p>If all your answers are correct you will also be crowned as our <em>Trivia King or Queen</em> and have your name written in our Hall of Fame</p> 
+                <h3>Now without further ado. You May Begin and Good Luck!</h3>  
+            </div>
+        </div >
+
+        
+        <div id="the-Game">
+            <!--All questions taken from: https://thoughtcatalog.com/samantha-newman/2020/03/250-best-trivia-questions/ -->
+            <p id="N">n/10</p>
+            <p id="Q" class="trivia-questions">Which CSS selector is used to select elements when the cursor is on top?</p>  <!--hint: The classic m&m colors are: red, yellow, green, blue, orange and brown-->
+            <p id="H">You are hovering over the element!</p>
+            <input type="text" id=Q1-Answer placeholder="Enter your answer here...">
+            <button type="submit" id=Q1-submit-btn onclick="userAnswer()">Submit</button>
+            <button type="submit" id=Q1-hint-btn onclick="showHint()">Hint</button>
+            <button type="submit" id=Q1-name-btn onclick="gameEnd()">Submit</button>
+            <!-- Leaderboards -->
+                <!-- To Basmala
+                If you could make the leaderboard appear and disappear on HOVER, that would be great (CSS only)-->
+            <div id="Leaderboard">
+                <h2 id="Leadboard-sign">The Hall of Fame</h2>
+                <ul id="the-list">
+                    <li id="daniel-score">Daniel Kang</li>
+                    <li id="basmala-score">Basmala Kamal</li>
+                    <li id="nifemi-score">Nifemi Akomolafe</li>
+                    <li id="katelyn-score">Katelyn Hoeg</li>
+                    <li id="saif-score">Saif Al Azri</li>
+                    <li id="user-score">Username</li>
+                </ul>
+            </div>
+
+        </div>
+        
+
+    <footer>
+        <div id="credits">
+            <p><em>The Great Trivia Game</em> was brought to you by the collaboration of the Black Panther 2 team consisting of: Daniel Kang, Saif Sulaiman Nasser Al Azri, Basmala Kamal, Nifumi Akomolafe and Katelyn Hoeg. </p>
+            <p>Thank You For Playing</p>
+        </div>
+    </footer>  
+
+
+    </body>
+    <script src="js/game.js"></script>
+
+</html>

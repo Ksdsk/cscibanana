@@ -9,7 +9,7 @@ Daniel Kang B00874999 [danielkang@dal.ca]
 Basmala Kamal B00###### [bs914807@dal.ca]
 * Information Section 2 (Lines 86 to 121) <br> Responsible for Interactive HTML Contents
 
-Nifemi Akomolafe B00###### [nf244725@dal.ca]
+Nifemi Akomolafe B00856587 [nf244725@dal.ca]
 * Information Section 3 (Lines 122 to 173) <br> Responsible for Website Designing with CSS
 
 Katelyn Hoeg B00###### [kt461832@dal.ca]
@@ -62,8 +62,31 @@ See how well you did compared to other players by hovering over the top-right co
 >**3** <br>
 **File:** css/normalize.css <br>
 **Line of Reference:** All <br>
-**Author:** Nicolas <br>
-**Title of Piece:** Party Confetti Sticker <br>
-**Url:** https://giphy.com/stickers/yellow-confetti-inmotions-6IdTznDpTGYPjFJBOl <br>
-**Image Link:** https://media0.giphy.com/media/6IdTznDpTGYPjFJBOl/giphy.gif <br>
+**Author:** Nicolas Gallagher <br>
+**Title of Piece:** normalize.css <br>
+**Url:** https://github.com/necolas/normalize.css <br>
 **Date Accessed:** October 21st, 2020
+
+**File:** css/main.css <br>
+**Line of Reference:** 17-46 <br>
+**Author:** Online Tutorials <br>
+**Title of Piece:** Gradient Background Title Text <br>
+**Url:** https://youtu.be/SRoVYba6-5M <br>
+**Image Link:** N/A <br>
+**Date Accessed:** October 24th, 2020
+
+**File:** css/main.css <br>
+**Line of Reference:** 55-73 <br>
+**Author:** Yatharth Verma <br>
+**Title of Piece:** Typing Animation <br>
+**Url:** https://youtu.be/veO4yTn4GXc <br>
+**Image Link:** N/A <br>
+**Date Accessed:** October 24th, 2020
+
+**File:** css/main.css <br>
+**Line of Reference:** 55-73 <br>
+**Author:** Online Tutorials <br>
+**Title of Piece:** Glowing Green and Yellow Buttons <br>
+**Url:** https://youtu.be/ex7jGbyFgpA <br>
+**Image Link:** N/A <br>
+**Date Accessed:** October 24th, 2020

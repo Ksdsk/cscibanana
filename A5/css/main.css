@@ -10,7 +10,7 @@ body {
 
 .background-slate {
     width: 70%;
-    height: 100vh;
+    min-height: 100vh;
     border-left: 5px white solid;
     float: right;
     color: white;

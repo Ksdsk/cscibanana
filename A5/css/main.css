@@ -1,0 +1,103 @@
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+body {
+    background-image: url("../img/louis-hansel-shotsoflouis-LIJujhJviMI-unsplash.jpg");
+    background-position-x: right;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.background-slate {
+    width: 70%;
+    height: 100vh;
+    border-left: 5px white solid;
+    float: right;
+    color: white;
+    height: 100%;
+    background-color: rgb(90, 65, 19);
+}
+
+main {
+    border-bottom: 5px white solid;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h1 {
+    margin-top: 0;
+    padding-top: 20px;
+}
+
+.introduction {
+    background-color: steelblue;
+    height: 100%;
+}
+
+.searchmenu {
+    background-color: rgb(180, 142, 70);
+    height: 100%;
+}
+
+.contact {
+    background-color: rgb(90, 65, 19);
+    border-bottom: none;
+}
+.big-logo {
+    width: 100px;
+    display: block;
+    padding-top: 20px;
+    position: relative;
+    margin: 0 auto;
+}
+
+/* Input things */
+#menu-search-box {
+    width: 50%;
+}
+
+table {
+    width: 100%;
+    color: black;
+    background-color: white;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px lightgray solid;
+}
+/* Mobile View */
+@media only screen and (max-width: 840px) {
+
+    /* Sets the background image */
+    body {
+        background-image: url("../img/louis-hansel-shotsoflouis-LIJujhJviMI-unsplash.jpg");
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    
+    /* The main body separated from the background */
+    .background-slate {
+        position: relative;
+        top: 200px;
+        width: 100%;
+        border-left: 5px white solid;
+        float: right;
+        color: white;
+        height: 100%;
+        background-color: rgb(90, 65, 19);
+    }
+    
+    /* Input things */
+    #menu-search-box {
+        width: 75%;
+        height: 50px;
+        font-size: 20px;
+    }
+    #menu-search-button {
+        height: 50px;
+        width: auto;
+        font-size: 20px;
+    }
+
+}

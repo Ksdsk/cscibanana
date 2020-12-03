@@ -1,0 +1,68 @@
+<!-- 
+    * Steel Blue Restaurant website created by
+    * Daniel Kang
+    * B00874999
+    * For the completion of Assignment 5 for CSCI 1170, Dalhousie University
+    * Last Edited: December 2nd, 2020
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Steel Blue Restaurant</title>
+
+    <!-- CSS Links -->
+    <link rel="stylesheet" href="css/normalize.css"> 
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+
+    <!-- Separates the background image and the main contents -->
+    <div class="background-slate">
+
+        <!-- Introductory section with ipsum placeholders -->
+        <main class="introduction">
+            <img class="big-logo" src="img/logo.png" alt="logo">
+            <h1>Welcome to Steel Blue 1170</h1>
+            <p>Experience Steel Blue 1170, the only restaurant awarded with 4-star Michelin Stars located in the heart of Kyiv, Ukraine.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tempor semper dui, et ullamcorper ipsum. Integer varius tellus a ipsum efficitur, nec mattis ex scelerisque. Cras pulvinar ornare lacinia. Nam tristique consequat viverra. Vestibulum mollis tempor nulla at pharetra. Aliquam erat volutpat. Nulla egestas ultrices dui, in condimentum purus congue at. Duis commodo tempus risus, commodo vulputate neque cursus at. Vestibulum vel volutpat augue, eu cursus urna. Phasellus ut est eget libero commodo cursus nec at dolor. Sed metus lectus, viverra gravida metus ac, blandit ultrices sapien. Vivamus a consequat dolor. Sed ultrices sollicitudin ante, vitae porttitor quam aliquet in. Integer rutrum sit amet mi ut tincidunt. Praesent convallis, neque quis cursus ornare, ligula lectus tempus neque, a convallis sapien felis vel metus.</p>
+            <br>
+        </main>
+
+        <!-- The important search-enabled menu -->
+        <main class="searchmenu">
+            <h1>Menu</h1>
+            <p>Search through our beautiful lineup of gourmet dishes crafted by culinary stars</p>
+            <br>
+    
+            <!-- Creating the search form and the button -->
+            <form onkeydown="return event.key != 'Enter';"> <!-- CITED: "Disallow enter key Anywhere" - Bauke Scholtz -->
+                <input type="text" name="menu" id="menu-search-box" placeholder="Search menus...">
+                <button type="button" id="menu-search-button" onclick="searchMenu()">Search</button>
+            </form>
+            <br>
+
+            <table id="menu">
+                <!-- This table will soon be filled with items when the user clicks the button -->
+            </table>
+            <br>
+        </main>
+
+        <!-- Filler Contacts -->
+        <main class="contact">
+            <h1>Contact Us</h1>
+            <p>We provide service in Ukrainian, Russian, English, German, French, Spanish, and Italian. <br> Please reach us by contacting the following modes of messaging.</p>
+            <p>Phone: 01-0101-0101</p> <!-- Does not exist -->
+            <p>Email: restaurant@steelblue.co.ua</p> <!-- Does not exist -->
+            <p>Quick-Reservation Phone Line: 02-0202-0202</p> <!-- Does not exist -->
+            <p>&copy; Steel Blue 1170</p> <!-- Does not exist -->
+        </main>
+    </div>
+
+    <!-- Importing JavaScripts -->
+    <script src="js/data-restaurant.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>
